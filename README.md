@@ -19,7 +19,7 @@ sudo /opt/bitnami/ctlscript.sh restart apache<br>
 
 Liens utiles<br>
 
-https://docs.bitnami.com/bch/apps/odoo/configuration/install-wkhtmltopdf/
+https://docs.bitnami.com/bch/apps/odoo/configuration/install-wkhtmltopdf/ <br>
 https://superuser.com/questions/1165634/odoo-10-cannot-find-wkhtmltopdf
 
 
